@@ -1,4 +1,6 @@
-package school.sptech;
+package sptech.school;
+
+import sptech.school.Vacina;
 
 public class Main {
     public static void main(String[] args) {
